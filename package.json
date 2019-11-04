@@ -1,0 +1,20 @@
+{
+  "name": "practice-es6-jquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TsutomuNakamura/practice-es6-jquery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TsutomuNakamura/practice-es6-jquery/issues"
+  },
+  "homepage": "https://github.com/TsutomuNakamura/practice-es6-jquery#readme"
+}
