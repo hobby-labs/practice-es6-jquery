@@ -30,7 +30,7 @@ module.exports = {
   ],
   output: {
     path: __dirname + "/public/",
-    publicPath: "/",
+    publicPath: "/js/",
     filename: "[name].js"
   },
   // Re loading trick when not only *.js files are modified but also *.html files.
