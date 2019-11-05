@@ -2,6 +2,7 @@ import "./Test1";
 import "./test2"
 //import { jAlert } "jAlert";
 import "jAlert";
+import "./../css/jAlert.css";
 
 $(document).ready(() => {
   console.log("Hello world.");
